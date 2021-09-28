@@ -1,0 +1,8 @@
+{
+  "name": "ptp-socket-server",
+  "display_name": "ptp-socket-server",
+  "domain": "com.inreality",
+  "version": "3.0.1_U16.04-x64_dev.1",
+  "hidden": false,
+  "main": "run.sh"
+}
